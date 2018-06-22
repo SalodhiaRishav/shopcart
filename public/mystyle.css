@@ -1,0 +1,9 @@
+.listitem{
+    border-bottom: 1px solid #ccc;
+}
+
+.listhead{
+    border: 1px solid cornflowerblue;
+    color:black;
+    background-color: gray;
+}
