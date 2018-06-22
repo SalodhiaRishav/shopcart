@@ -1,0 +1,16 @@
+{
+  "name": "rishav_salodhia_assignment_2",
+  "version": "1.0.0",
+  "description": "about shopping site",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rishav_salodhia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql2": "^1.5.3",
+    "sequelize": "^4.38.0"
+  }
+}
